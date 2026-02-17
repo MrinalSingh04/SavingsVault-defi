@@ -27,10 +27,11 @@ schedules, or controlled fund releases.
 
 ## 🚀 Live Deployment
 
+Link: [https://sepolia.etherscan.io/address/0xb51cCeF7C4FCc1A0063E4f27907b90f07508119E]
+
   Network   Address
   --------- ----------------------------------------------
   Sepolia   `0xb51cCeF7C4FCc1A0063E4f27907b90f07508119E`
-  Link      `https://sepolia.etherscan.io/address/0xb51cCeF7C4FCc1A0063E4f27907b90f07508119E`
 
 ------------------------------------------------------------------------
 
