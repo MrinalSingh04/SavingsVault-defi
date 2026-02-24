@@ -6,7 +6,7 @@ OpenZeppelin contracts and Foundry.
 
 ------------------------------------------------------------------------
 
-## 📋 Overview
+## 📋 Overview 
  
 SavingsVault is a smart contract that enables users to create
 personalized savings plans. Users can deposit ETH and set up a
