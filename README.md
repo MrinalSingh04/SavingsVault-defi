@@ -5,7 +5,7 @@ deposit ETH and withdraw it in scheduled intervals. Built with
 OpenZeppelin contracts and Foundry.  
        
 ------------------------------------------------------------------------
- 
+  
 ## 📋 Overview 
   
 SavingsVault is a smart contract that enables users to create
