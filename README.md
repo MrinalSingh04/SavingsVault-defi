@@ -103,7 +103,7 @@ cast send <CONTRACT_ADDRESS> \
 --private-key <YOUR_KEY> \
 --rpc-url <RPC_URL>
 ```
-
+   
 ------------------------------------------------------------------------
 
 ### Vault Details
